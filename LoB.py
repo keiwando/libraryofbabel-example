@@ -5,7 +5,6 @@
 #For this, I also don't consider the structure of the rooms - the addresses could be considered as roomnumbers without
 #a wall/shelf/volume number - since the way you interpret the address does not change the basic idea of how this works in general.
 #You can think of this as a library with 1 book containing all the pages (and the address being the page number)
-#with the same dimension of libraryofbabel.info) 
 #This algorithm is purely based on a linear congruential generator
 #more steps can be added inbetween for achieving more 'randomness'
 #The LCG is what enables "searchability"
